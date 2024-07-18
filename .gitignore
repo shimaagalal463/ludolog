@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+.venv/
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
+htmlcov/
+.ruff_cache/
+.history_snapshot/
+scripts/.history-log
