@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ludolog"
+version = "0.0.1"
+description = "board game play log — scratchpad"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Shimaa Galal", email = "shimaagalal463@gmail.com" }]
