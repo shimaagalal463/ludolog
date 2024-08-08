@@ -1,0 +1,2 @@
+class LudologError(Exception):
+    pass
