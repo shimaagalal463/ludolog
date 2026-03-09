@@ -4,8 +4,60 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ludolog"
-version = "0.0.1"
-description = "board game play log — scratchpad"
+version = "1.2.0"
+description = "Board game collection and play session tracker — CLI and library"
 readme = "README.md"
-requires-python = ">=3.9"
+license = { text = "MIT" }
 authors = [{ name = "Shimaa Galal", email = "shimaagalal463@gmail.com" }]
+requires-python = ">=3.9"
+keywords = ["cli", "board-games", "bgg", "game-night", "collection"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "pytest-cov>=4", "ruff>=0.6", "openpyxl>=3.1"]
+
+[project.scripts]
+ludolog = "ludolog.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/shimaagalal463/ludolog"
+Repository = "https://github.com/shimaagalal463/ludolog"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ludolog = ["py.typed"]
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = ["-ra"]
+
+[tool.coverage.run]
+source = ["ludolog"]
+branch = true
+
+[tool.coverage.report]
+fail_under = 95
+show_missing = true
+skip_empty = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W"]
+ignore = ["E501", "E731"]
