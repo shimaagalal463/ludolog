@@ -1,0 +1,1546 @@
+{
+  "schema_version": 3,
+  "games": [
+    {
+      "id": 1,
+      "title": "Wingspan",
+      "bgg_id": 266192,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "engine building"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 2,
+      "title": "Azul",
+      "bgg_id": 230802,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "pattern building"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "title": "Catan",
+      "bgg_id": 13,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "negotiation"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 4,
+      "title": "Ticket to Ride",
+      "bgg_id": 9209,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "route building"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 5,
+      "title": "Pandemic",
+      "bgg_id": 30549,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "cooperative"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 6,
+      "title": "Splendor",
+      "bgg_id": 148228,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "engine building"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 7,
+      "title": "Codenames",
+      "bgg_id": 178900,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "party"
+      ],
+      "owned": true,
+      "tags": []
+    },
+    {
+      "id": 8,
+      "title": "7 Wonders",
+      "bgg_id": 68448,
+      "designer": "",
+      "player_range": {
+        "min_players": 2,
+        "max_players": 4,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 30,
+        "max_minutes": 90
+      },
+      "mechanics": [
+        "drafting"
+      ],
+      "owned": true,
+      "tags": []
+    }
+  ],
+  "plays": [
+    {
+      "id": 1,
+      "game_id": 7,
+      "played_at": "2019-09-27T19:30:00",
+      "player_ids": [
+        5,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "5": 51,
+        "4": 45
+      },
+      "duration_minutes": 53,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "game_id": 8,
+      "played_at": "2019-02-19T19:30:00",
+      "player_ids": [
+        2,
+        5,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "2": 70,
+        "5": 25,
+        "3": 13
+      },
+      "duration_minutes": 46,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "game_id": 3,
+      "played_at": "2020-01-04T19:30:00",
+      "player_ids": [
+        1,
+        2,
+        3
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 98,
+        "2": 82,
+        "3": 95
+      },
+      "duration_minutes": 110,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "game_id": 4,
+      "played_at": "2021-07-01T19:30:00",
+      "player_ids": [
+        3,
+        5
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "3": 50,
+        "5": 31
+      },
+      "duration_minutes": 96,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "game_id": 6,
+      "played_at": "2020-12-29T19:30:00",
+      "player_ids": [
+        4,
+        5,
+        2,
+        3
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "4": 54,
+        "5": 86,
+        "2": 81,
+        "3": 72
+      },
+      "duration_minutes": 64,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 6,
+      "game_id": 8,
+      "played_at": "2019-06-11T19:30:00",
+      "player_ids": [
+        4,
+        3,
+        1,
+        5
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "4": 71,
+        "3": 45,
+        "1": 20,
+        "5": 22
+      },
+      "duration_minutes": 78,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "game_id": 7,
+      "played_at": "2021-08-13T19:30:00",
+      "player_ids": [
+        2,
+        4,
+        1
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "2": 89,
+        "4": 67,
+        "1": 63
+      },
+      "duration_minutes": 99,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "game_id": 7,
+      "played_at": "2020-03-29T19:30:00",
+      "player_ids": [
+        3,
+        2
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "3": 20,
+        "2": 49
+      },
+      "duration_minutes": 37,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 9,
+      "game_id": 4,
+      "played_at": "2019-07-27T19:30:00",
+      "player_ids": [
+        1,
+        5,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "1": 64,
+        "5": 86,
+        "3": 95
+      },
+      "duration_minutes": 103,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "game_id": 4,
+      "played_at": "2020-06-01T19:30:00",
+      "player_ids": [
+        4,
+        5,
+        1,
+        2
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "4": 41,
+        "5": 30,
+        "1": 64,
+        "2": 74
+      },
+      "duration_minutes": 30,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 11,
+      "game_id": 7,
+      "played_at": "2019-08-17T19:30:00",
+      "player_ids": [
+        5,
+        2,
+        4
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "5": 94,
+        "2": 47,
+        "4": 24
+      },
+      "duration_minutes": 98,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 12,
+      "game_id": 3,
+      "played_at": "2019-02-20T19:30:00",
+      "player_ids": [
+        2,
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "2": 26,
+        "1": 36
+      },
+      "duration_minutes": 58,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "game_id": 6,
+      "played_at": "2021-01-27T19:30:00",
+      "player_ids": [
+        3,
+        1
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "3": 68,
+        "1": 68
+      },
+      "duration_minutes": 108,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 14,
+      "game_id": 1,
+      "played_at": "2020-08-10T19:30:00",
+      "player_ids": [
+        2,
+        3,
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "2": 33,
+        "3": 96,
+        "1": 97
+      },
+      "duration_minutes": 104,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "game_id": 3,
+      "played_at": "2019-10-10T19:30:00",
+      "player_ids": [
+        1,
+        2,
+        5,
+        4
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 13,
+        "2": 66,
+        "5": 33,
+        "4": 44
+      },
+      "duration_minutes": 82,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 16,
+      "game_id": 4,
+      "played_at": "2019-12-16T19:30:00",
+      "player_ids": [
+        5,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "5": 27,
+        "4": 71
+      },
+      "duration_minutes": 42,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 17,
+      "game_id": 2,
+      "played_at": "2020-05-07T19:30:00",
+      "player_ids": [
+        5,
+        4,
+        3
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "5": 49,
+        "4": 59,
+        "3": 88
+      },
+      "duration_minutes": 84,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 18,
+      "game_id": 3,
+      "played_at": "2020-06-01T19:30:00",
+      "player_ids": [
+        1,
+        4
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 52,
+        "4": 69
+      },
+      "duration_minutes": 101,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 19,
+      "game_id": 7,
+      "played_at": "2019-12-04T19:30:00",
+      "player_ids": [
+        2,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "2": 97,
+        "3": 38
+      },
+      "duration_minutes": 114,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 20,
+      "game_id": 4,
+      "played_at": "2020-12-29T19:30:00",
+      "player_ids": [
+        1,
+        3,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "1": 40,
+        "3": 37,
+        "4": 45
+      },
+      "duration_minutes": 117,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 21,
+      "game_id": 5,
+      "played_at": "2019-04-26T19:30:00",
+      "player_ids": [
+        2,
+        4,
+        1,
+        5
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "2": 27,
+        "4": 50,
+        "1": 19,
+        "5": 21
+      },
+      "duration_minutes": 46,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 22,
+      "game_id": 2,
+      "played_at": "2020-05-16T19:30:00",
+      "player_ids": [
+        2,
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "2": 82,
+        "1": 84
+      },
+      "duration_minutes": 93,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 23,
+      "game_id": 1,
+      "played_at": "2021-04-16T19:30:00",
+      "player_ids": [
+        2,
+        3,
+        4
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "2": 83,
+        "3": 66,
+        "4": 96
+      },
+      "duration_minutes": 95,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 24,
+      "game_id": 8,
+      "played_at": "2019-06-30T19:30:00",
+      "player_ids": [
+        2,
+        4
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "2": 49,
+        "4": 43
+      },
+      "duration_minutes": 64,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 25,
+      "game_id": 4,
+      "played_at": "2021-06-13T19:30:00",
+      "player_ids": [
+        3,
+        1,
+        4
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "3": 65,
+        "1": 93,
+        "4": 25
+      },
+      "duration_minutes": 104,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 26,
+      "game_id": 8,
+      "played_at": "2021-07-03T19:30:00",
+      "player_ids": [
+        3,
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "3": 44,
+        "1": 40
+      },
+      "duration_minutes": 77,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 27,
+      "game_id": 8,
+      "played_at": "2021-07-06T19:30:00",
+      "player_ids": [
+        3,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "3": 73,
+        "4": 53
+      },
+      "duration_minutes": 47,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 28,
+      "game_id": 3,
+      "played_at": "2019-07-02T19:30:00",
+      "player_ids": [
+        3,
+        5,
+        2,
+        1
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "3": 45,
+        "5": 85,
+        "2": 19,
+        "1": 58
+      },
+      "duration_minutes": 45,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 29,
+      "game_id": 3,
+      "played_at": "2020-07-09T19:30:00",
+      "player_ids": [
+        2,
+        5,
+        1,
+        3
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "2": 44,
+        "5": 77,
+        "1": 46,
+        "3": 91
+      },
+      "duration_minutes": 30,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 30,
+      "game_id": 2,
+      "played_at": "2021-12-14T19:30:00",
+      "player_ids": [
+        4,
+        1,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "4": 14,
+        "1": 40,
+        "3": 38
+      },
+      "duration_minutes": 89,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "game_id": 4,
+      "played_at": "2021-07-23T19:30:00",
+      "player_ids": [
+        4,
+        3,
+        5
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 77,
+        "3": 35,
+        "5": 79
+      },
+      "duration_minutes": 43,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 32,
+      "game_id": 4,
+      "played_at": "2021-07-28T19:30:00",
+      "player_ids": [
+        2,
+        3
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "2": 56,
+        "3": 53
+      },
+      "duration_minutes": 30,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 33,
+      "game_id": 5,
+      "played_at": "2020-01-20T19:30:00",
+      "player_ids": [
+        4,
+        5
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 52,
+        "5": 84
+      },
+      "duration_minutes": 70,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 34,
+      "game_id": 2,
+      "played_at": "2020-04-08T19:30:00",
+      "player_ids": [
+        1,
+        4,
+        5,
+        2
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 11,
+        "4": 87,
+        "5": 54,
+        "2": 64
+      },
+      "duration_minutes": 74,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 35,
+      "game_id": 1,
+      "played_at": "2021-08-01T19:30:00",
+      "player_ids": [
+        3,
+        5
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "3": 90,
+        "5": 64
+      },
+      "duration_minutes": 59,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 36,
+      "game_id": 8,
+      "played_at": "2019-08-18T19:30:00",
+      "player_ids": [
+        2,
+        3,
+        5,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "2": 50,
+        "3": 93,
+        "5": 65,
+        "4": 68
+      },
+      "duration_minutes": 39,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 37,
+      "game_id": 5,
+      "played_at": "2019-06-19T19:30:00",
+      "player_ids": [
+        2,
+        4,
+        5,
+        3
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "2": 55,
+        "4": 86,
+        "5": 23,
+        "3": 27
+      },
+      "duration_minutes": 76,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 38,
+      "game_id": 8,
+      "played_at": "2020-04-23T19:30:00",
+      "player_ids": [
+        4,
+        3,
+        2,
+        5
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 86,
+        "3": 22,
+        "2": 94,
+        "5": 99
+      },
+      "duration_minutes": 63,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 39,
+      "game_id": 1,
+      "played_at": "2020-09-30T19:30:00",
+      "player_ids": [
+        4,
+        5,
+        2,
+        3
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "4": 76,
+        "5": 71,
+        "2": 35,
+        "3": 78
+      },
+      "duration_minutes": 86,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 40,
+      "game_id": 2,
+      "played_at": "2019-04-16T19:30:00",
+      "player_ids": [
+        1,
+        5,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "1": 14,
+        "5": 73,
+        "3": 100
+      },
+      "duration_minutes": 57,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 41,
+      "game_id": 6,
+      "played_at": "2020-04-12T19:30:00",
+      "player_ids": [
+        4,
+        1
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 14,
+        "1": 30
+      },
+      "duration_minutes": 74,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 42,
+      "game_id": 7,
+      "played_at": "2020-06-19T19:30:00",
+      "player_ids": [
+        3,
+        1,
+        2,
+        5
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "3": 74,
+        "1": 63,
+        "2": 17,
+        "5": 99
+      },
+      "duration_minutes": 43,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 43,
+      "game_id": 3,
+      "played_at": "2020-12-05T19:30:00",
+      "player_ids": [
+        3,
+        5,
+        4
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "3": 14,
+        "5": 56,
+        "4": 33
+      },
+      "duration_minutes": 96,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 44,
+      "game_id": 6,
+      "played_at": "2021-04-27T19:30:00",
+      "player_ids": [
+        3,
+        1
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "3": 62,
+        "1": 40
+      },
+      "duration_minutes": 56,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 45,
+      "game_id": 8,
+      "played_at": "2020-06-07T19:30:00",
+      "player_ids": [
+        4,
+        1
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 89,
+        "1": 19
+      },
+      "duration_minutes": 112,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "game_id": 8,
+      "played_at": "2019-12-20T19:30:00",
+      "player_ids": [
+        1,
+        4,
+        5,
+        2
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 92,
+        "4": 12,
+        "5": 67,
+        "2": 79
+      },
+      "duration_minutes": 73,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 47,
+      "game_id": 5,
+      "played_at": "2019-09-09T19:30:00",
+      "player_ids": [
+        5,
+        2,
+        4
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "5": 52,
+        "2": 72,
+        "4": 60
+      },
+      "duration_minutes": 34,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 48,
+      "game_id": 8,
+      "played_at": "2021-01-11T19:30:00",
+      "player_ids": [
+        5,
+        1,
+        3,
+        4
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "5": 10,
+        "1": 11,
+        "3": 15,
+        "4": 44
+      },
+      "duration_minutes": 44,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 49,
+      "game_id": 5,
+      "played_at": "2020-03-25T19:30:00",
+      "player_ids": [
+        4,
+        5
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 40,
+        "5": 23
+      },
+      "duration_minutes": 86,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 50,
+      "game_id": 7,
+      "played_at": "2020-11-27T19:30:00",
+      "player_ids": [
+        1,
+        2,
+        4
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 47,
+        "2": 38,
+        "4": 27
+      },
+      "duration_minutes": 109,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 51,
+      "game_id": 6,
+      "played_at": "2021-09-14T19:30:00",
+      "player_ids": [
+        3,
+        2,
+        1,
+        5
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "3": 90,
+        "2": 89,
+        "1": 22,
+        "5": 23
+      },
+      "duration_minutes": 32,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 52,
+      "game_id": 3,
+      "played_at": "2020-06-28T19:30:00",
+      "player_ids": [
+        2,
+        4,
+        5
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "2": 47,
+        "4": 16,
+        "5": 28
+      },
+      "duration_minutes": 93,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 53,
+      "game_id": 1,
+      "played_at": "2019-10-08T19:30:00",
+      "player_ids": [
+        4,
+        3,
+        5
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "4": 57,
+        "3": 33,
+        "5": 53
+      },
+      "duration_minutes": 115,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 54,
+      "game_id": 8,
+      "played_at": "2019-02-06T19:30:00",
+      "player_ids": [
+        4,
+        3,
+        5
+      ],
+      "winner_ids": [
+        5
+      ],
+      "scores": {
+        "4": 65,
+        "3": 70,
+        "5": 12
+      },
+      "duration_minutes": 77,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 55,
+      "game_id": 2,
+      "played_at": "2021-08-20T19:30:00",
+      "player_ids": [
+        1,
+        5,
+        4,
+        3
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "1": 55,
+        "5": 82,
+        "4": 52,
+        "3": 15
+      },
+      "duration_minutes": 43,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 56,
+      "game_id": 1,
+      "played_at": "2019-11-30T19:30:00",
+      "player_ids": [
+        2,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "2": 21,
+        "4": 38
+      },
+      "duration_minutes": 73,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "game_id": 4,
+      "played_at": "2020-10-14T19:30:00",
+      "player_ids": [
+        4,
+        5,
+        3
+      ],
+      "winner_ids": [
+        3
+      ],
+      "scores": {
+        "4": 23,
+        "5": 46,
+        "3": 15
+      },
+      "duration_minutes": 34,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 58,
+      "game_id": 6,
+      "played_at": "2020-08-23T19:30:00",
+      "player_ids": [
+        2,
+        3,
+        5,
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {
+        "2": 61,
+        "3": 98,
+        "5": 86,
+        "1": 50
+      },
+      "duration_minutes": 118,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "game_id": 4,
+      "played_at": "2020-03-22T19:30:00",
+      "player_ids": [
+        5,
+        3,
+        4
+      ],
+      "winner_ids": [
+        4
+      ],
+      "scores": {
+        "5": 68,
+        "3": 78,
+        "4": 18
+      },
+      "duration_minutes": 64,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    },
+    {
+      "id": 60,
+      "game_id": 6,
+      "played_at": "2021-07-31T19:30:00",
+      "player_ids": [
+        5,
+        4,
+        2
+      ],
+      "winner_ids": [
+        2
+      ],
+      "scores": {
+        "5": 55,
+        "4": 98,
+        "2": 88
+      },
+      "duration_minutes": 64,
+      "venue_id": null,
+      "notes": "",
+      "tags": []
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Player 1",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Player 2",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Player 3",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Player 4",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Player 5",
+      "active": true
+    }
+  ],
+  "shelves": [
+    {
+      "id": 1,
+      "name": "Living room",
+      "game_ids": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "venues": [
+    {
+      "id": 1,
+      "name": "Home table",
+      "kind": "home"
+    }
+  ],
+  "notes": [],
+  "goals": [
+    {
+      "id": 1,
+      "title": "52 unique games",
+      "target_count": 52,
+      "progress": 8
+    }
+  ],
+  "seasons": [],
+  "recurring_nights": [],
+  "tags": [
+    "family",
+    "strategy"
+  ],
+  "collections": [],
+  "audit_log": []
+}
