@@ -1,0 +1,54 @@
+{
+  "schema_version": 3,
+  "games": [
+    {
+      "id": 1,
+      "title": "Wingspan",
+      "bgg_id": 266192,
+      "designer": "Elizabeth Hargrave",
+      "player_range": {
+        "min_players": 1,
+        "max_players": 5,
+        "best": 3
+      },
+      "playtime": {
+        "min_minutes": 40,
+        "max_minutes": 70
+      },
+      "mechanics": [
+        "engine building"
+      ],
+      "owned": true
+    }
+  ],
+  "plays": [
+    {
+      "id": 1,
+      "game_id": 1,
+      "played_at": "2025-05-01T20:00:00",
+      "player_ids": [
+        1
+      ],
+      "winner_ids": [
+        1
+      ],
+      "scores": {}
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Alex",
+      "active": true
+    }
+  ],
+  "shelves": [],
+  "venues": [],
+  "notes": [],
+  "goals": [],
+  "seasons": [],
+  "recurring_nights": [],
+  "tags": [],
+  "collections": [],
+  "audit_log": []
+}
