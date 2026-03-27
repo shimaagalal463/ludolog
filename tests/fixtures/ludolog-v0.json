@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Legacy Game",
+      "player_range": {},
+      "playtime": {}
+    }
+  ]
+}
