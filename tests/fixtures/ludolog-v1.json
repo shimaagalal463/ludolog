@@ -1,0 +1,21 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Legacy Game",
+      "player_range": {},
+      "playtime": {}
+    }
+  ],
+  "schema_version": 1,
+  "plays": [],
+  "players": [
+    {
+      "id": 1,
+      "name": "Alex"
+    }
+  ],
+  "tags": [
+    "family"
+  ]
+}
