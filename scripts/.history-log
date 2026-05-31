@@ -1,2 +1,3 @@
 2026-05-31T04:39:54	Bump to 1.2.0
 2026-05-31T12:43:28	README polish for 1.2
+2026-05-31T13:08:46	fix: stats win-rate when no plays logged
